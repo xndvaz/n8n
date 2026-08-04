@@ -12,7 +12,7 @@
 	},
 	"devDependencies": {
 		"@codspeed/vitest-plugin": "^4.0.0",
-		"vitest": "^3.2.0",
+		"vitest": "^4.1.10",
 		"n8n-workflow": "workspace:*"
 	}
 }
